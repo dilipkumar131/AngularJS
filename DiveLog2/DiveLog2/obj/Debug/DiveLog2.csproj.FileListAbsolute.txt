@@ -1,0 +1,12 @@
+C:\Dilip\Projects\AngularJS\DiveLog2\DiveLog2\bin\DiveLog2.dll.config
+C:\Dilip\Projects\AngularJS\DiveLog2\DiveLog2\bin\DiveLog2.dll
+C:\Dilip\Projects\AngularJS\DiveLog2\DiveLog2\bin\DiveLog2.pdb
+C:\Dilip\Projects\AngularJS\DiveLog2\DiveLog2\obj\Debug\DiveLog2.dll
+C:\Dilip\Projects\AngularJS\DiveLog2\DiveLog2\obj\Debug\DiveLog2.pdb
+C:\Dilip\Projects\AngularJS\DiveLog2\DiveLog2\obj\Debug\DiveLog2.csprojResolveAssemblyReference.cache
+C:\Dilip\Projects\Other\AngularJS\DiveLog2\DiveLog2\bin\DiveLog2.dll.config
+C:\Dilip\Projects\Other\AngularJS\DiveLog2\DiveLog2\bin\DiveLog2.dll
+C:\Dilip\Projects\Other\AngularJS\DiveLog2\DiveLog2\bin\DiveLog2.pdb
+C:\Dilip\Projects\Other\AngularJS\DiveLog2\DiveLog2\obj\Debug\DiveLog2.csprojResolveAssemblyReference.cache
+C:\Dilip\Projects\Other\AngularJS\DiveLog2\DiveLog2\obj\Debug\DiveLog2.dll
+C:\Dilip\Projects\Other\AngularJS\DiveLog2\DiveLog2\obj\Debug\DiveLog2.pdb
