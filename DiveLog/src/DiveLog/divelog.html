@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Dive Log (HTML)</title>
+    <link href="css/bootstrap.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="container-fluid">
+        <h1>My Latest Dives(jQuery)</h1><div class="row" id="logbook" ng-init="dives=[
+        {
+            site:'Abu Gotta Ramada',
+            location:'Hurghada, Egypt',
+            depth:72,
+            time:54
+        },
+        {
+            site:'Ponte Mahoon',
+            location: 'Maehbourg, Mauritius',
+            depth:54,
+            time:38
+        },
+        {
+            site:'Molnar Cave',
+            location:'Budapest, Hungary',
+            depth:98,
+            time:62
+        }]">
+        </div>
+        <div class="col-sm-4" ng-repeat="dive in dives">
+            <h3>{{dive.site}}</h3>
+            <h4>{{dive.location}}</h4>
+            <h2>{{dive.depth}} feet | {{dive.time}} min</h2>
+        </div>
+    </div>      
+    <script src="js/jquery-1.11.3.min.js">
+    </script>      
+    <!--<script>
+        $(document).ready(function () {
+            for (var i = 0; i < dives.length; i++) {
+                var dive = dives[i]; 
+                $("#logbook").append(
+                    "<divclass='col-sm-4'>" +
+                    '<h3>' + dive.site + '</h3>' +
+                    '<h4>' + dive.location + '</h4>' +
+                    '<h2>' + dive.depth + 'feet|' +
+                    dive.time + 'min</h2>' +
+                    '</div>');
+            }
+        });
+    </script>-->
+</body>
+</html>
